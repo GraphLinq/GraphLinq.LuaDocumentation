@@ -1,0 +1,13 @@
+{
+  "name": "lua-documentation",
+  "version": "1.0.0",
+  "description": "> An awesome project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve ./",
+    "build": "docsify generate build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
