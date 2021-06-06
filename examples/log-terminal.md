@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We will start with the most basic feature of the GraphLinq Scripting Engine : **Logging**  
+> We will start with the most basic feature of the GraphLinq Scripting Engine : **Logging**  
 
 It will allow you the log any kind of text on your GraphLinq Dashboard or in your IDE Terminal.  
 This is usefull to debug your script or just log some informations to track things.
